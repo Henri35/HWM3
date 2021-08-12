@@ -11,6 +11,8 @@ public class Main
             System.out.println("How are you2 ?");
             System.out.println("How are you3 ?");
             System.out.println("How are you5 ?");
+            System.out.println("How are you6 ?");
+
         }
     }
 
