@@ -10,6 +10,7 @@ public class Main
             System.out.println("How are you ?");
             System.out.println("How are you2 ?");
             System.out.println("How are you3 ?");
+            System.out.println("How are you4 ?");
         }
     }
 
